@@ -23,7 +23,7 @@ repository               : "https://linshanliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfPhoto.jpeg"
   name             : "Linshan Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Mathematics. Research interests include probability, stochastic processes, machine learning and quantitative finance."
