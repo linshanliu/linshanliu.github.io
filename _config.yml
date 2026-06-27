@@ -24,13 +24,13 @@ repository               : "https://linshanliu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Linshan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD in Mathematics. Research interests include probability, stochastic processes, machine learning and quantitative finance."
+  location         : "United Kingdom"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "linshan.math@gmail.com"
 
   # Academic websites
   academia         : # URL
