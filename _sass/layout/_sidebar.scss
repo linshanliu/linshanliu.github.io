@@ -153,13 +153,20 @@
 //     height: auto;
 //   }
 
-.author__avatar img {
-  max-width: 240px;
-  border-radius: 8px;
-}
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 240px;
+    border-radius: 8px;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -167,7 +174,6 @@
     }
   }
 }
-
 .author__content {
   display: table-cell;
   vertical-align: top;
