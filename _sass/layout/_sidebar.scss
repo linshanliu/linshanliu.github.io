@@ -156,15 +156,16 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 240px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 240px;
     height: auto;
   }
 
   img {
+    width: 240px;
     max-width: 240px;
     border-radius: 8px;
 
