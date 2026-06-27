@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Linshan Liu, a PhD graduate in Mathematics from Heriot-Watt University.
+I am Linshan Liu, a mathematician working at the intersection of probability theory, optimisation, and machine learning. I received my PhD in Mathematics from Heriot-Watt University, where I was supervised by [Mateusz B. Majka](https://sites.google.com/site/mateuszbmajka/) and [Łukasz Szpruch](https://webhomes.maths.ed.ac.uk/~lszpruch/). Prior to my PhD, I obtained both my Bachelor's and Master's degrees in Mathematics from Sorbonne University.
 
-My research interests lie broadly in probability theory, stochastic processes, interacting particle systems, gradient flows, optimal transport, and machine learning. During my PhD, I studied mathematical structures arising in optimisation over spaces of probability measures, with connections to mean-field systems and generative modelling.
+## Research Interests
 
-I am also interested in quantitative finance, especially the use of probabilistic modelling, numerical methods, and machine learning in financial markets.
+My current research interests include
 
-This website collects my research, publications, teaching experience, and selected quantitative finance projects.
+- **Interacting particle systems and mean-field limits**
+- **Optimisation over spaces of probability measures**
+- **Gradient flows and optimal transport**
+- **Mathematical foundations of machine learning**
+- **Generative modelling**
+
+Alongside my academic research, I have a strong interest in quantitative finance. I enjoy applying probabilistic modelling, numerical methods, and machine learning to financial markets, and developing quantitative models in Python and C++.
