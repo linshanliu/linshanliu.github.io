@@ -1,7 +1,7 @@
 ---
 title: "L²-Wasserstein Contraction for Euler Schemes of Elliptic Diffusions and Interacting Particle Systems"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-l2-wasserstein-contraction
 excerpt: "We establish L²-Wasserstein contraction for Euler discretisations of elliptic diffusions and interacting particle systems, with applications to convergence rates and functional inequalities."
 date: 2025-01-01
