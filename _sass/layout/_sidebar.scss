@@ -152,15 +152,11 @@
 //     width: auto;
 //     height: auto;
 //   }
-.author__avatar {
-  ...
-  img {
-    max-width: 240px;
-    border-radius: 8px;
-    ...
-  }
-}
 
+.author__avatar img {
+  max-width: 240px;
+  border-radius: 8px;
+}
   img {
     max-width: 175px;
     border-radius: 50%;
