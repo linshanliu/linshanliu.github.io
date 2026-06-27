@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Polyak–Łojasiewicz Inequality on the Space of Measures and Convergence of Mean-Field Birth–Death Processes"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journals
+permalink: /publication/2023-pli-measures
+excerpt: "We extend the Polyak–Łojasiewicz inequality to the space of probability measures and establish exponential convergence for mean-field birth–death processes."
+date: 2023-06-01
+venue: "Applied Mathematics & Optimization"
+paperurl: "https://link.springer.com/article/10.1007/s10440-022-00514-5"
+citation: 'Liu, L., Majka, M. B., & Szpruch, Ł. (2023). "Polyak–Łojasiewicz Inequality on the Space of Measures and Convergence of Mean-Field Birth–Death Processes." <i>Applied Mathematics & Optimization</i>, 87(3), Article 48.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper studies an analogue of the Polyak–Łojasiewicz inequality on the space of probability measures and shows that it provides a natural condition for proving exponential convergence of a class of mean-field birth–death processes.
+
+The results apply to a broad class of KL-regularised energy functionals and contribute to the mathematical analysis of optimisation dynamics over probability measures.
