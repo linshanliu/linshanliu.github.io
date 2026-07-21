@@ -10,4 +10,4 @@ The core design choice was to make the same code path handle three very differen
 
 The architecture separates the PDE, the payoff, the boundary conditions, and the grid into independent, swappable pieces — so extending the solver to barrier options or local volatility later doesn't require touching the core engine. Every result is validated against the closed-form Black-Scholes formula as an independent check.
 
-[Code and full technical writeup →](https://github.com/yourusername/your-repo-name)
+[Code and full technical writeup →]([https://github.com/yourusername/your-repo-name](https://github.com/linshanliu/cpp-pde-solver))
